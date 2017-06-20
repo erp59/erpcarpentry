@@ -23,3 +23,5 @@ Requirements:
 4. Website will also include a web form to contact stakeholder. 
 5. Stakeholder will have administrative access to create new folders of recently completed work.
 6. AWS or Microsoft Azure will host the website
+
+FatDucks LLC 2017
